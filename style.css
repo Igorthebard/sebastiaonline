@@ -1,0 +1,13 @@
+body {margin: 0; background-color:#CFB590;}
+header {background-color: #CFB590;}
+.cabeçalho {text-align: center; background-color: #CFB590; font-family: Arial, Helvetica, sans-serif; color: #49281F;}
+#boasvindas {font-size: 20px}
+
+
+.grade {display: grid; grid-template-columns: 25% 25% 25% 25%;}
+.botões {text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 30px; background-color: #9E9A41; padding: 5px; margin: 4px; border: 3px solid #564334;}
+.links {color: #49281F; text-decoration: none;}
+
+#front {width: 100%;}
+
+footer {text-align: center; color: #49281F; font-family: Arial, Helvetica, sans-serif; font-size: 25px; background-color: #9E9A41; padding: 1px; margin: 0px;}
